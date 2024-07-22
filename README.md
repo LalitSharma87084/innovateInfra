@@ -1,4 +1,4 @@
-                                                                    innovateInfra
+                                                                 innovateInfra
 
 InnovateInfra is a collaborative project focused on achieving Sustainable Development Goal No. 9 (Industry, Innovation, and Infrastructure) of the United Nations.
 
