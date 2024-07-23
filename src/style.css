@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.news-update-logo{
+    color: #ea580c;
+    font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+    margin: 2rem;
+
+}
+.news-update-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 1rem 12rem;
+    gap: 1rem;
+    font-family: sans-serif;
+    
+}
+.news{
+        padding: 2rem;
+        background-color: #f97316;
+        font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  
+      
+}
+.heading{
+    color: white;
+    font-weight: 700;
+    font-size: 1.1rem;
+    line-height: 1.4rem;
+    margin-bottom: 1rem;
+   
+}
+.time-section{
+    margin: 1rem 0 0.5rem 0;
+    font-size: 12px;
+    color:rgba(245, 245, 245, 0.555);
+    font-weight:500;
+}
+.research{
+    color:rgba(245, 245, 245, 0.612);
+    font-weight:600;
+    line-height: 1.2rem;
+    
+
+}
