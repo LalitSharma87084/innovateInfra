@@ -4,7 +4,7 @@
 }
 
 .news-update-logo{
-    color: #ea580c;
+    color: #FD6925;
     font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-size: 32px;
     font-weight: 700;
@@ -22,7 +22,7 @@
 }
 .news{
         /* padding: 2rem; */
-        background-color: #f97316;
+        background-color: #FD6925;
         font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   
       
@@ -45,6 +45,4 @@
     color:rgba(245, 245, 245, 0.612);
     font-weight:600;
     line-height: 1.2rem;
-    
-
 }
