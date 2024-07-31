@@ -12,6 +12,7 @@ Technologies Used:
 
 Team Members:
 
+    Navneet Sharma
     Dinesh Sharma
     Sahil Jalandhara
     Lalit Sharma
