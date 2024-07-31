@@ -21,14 +21,14 @@ body{
     margin-left: 20%;
    }
   .first-div{
-      background: url('https://images.unsplash.com/photo-1547423753-6abf56c9b8eb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+      background: url('/src/assets/Hero-sectio.png');
   }
   .second-div{
-      background: url('https://images.unsplash.com/photo-1549917923-b0a375d430e0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+      background: url('/src/assets/Hero-sectio.png');
   }
   .third-div{
-      background: url('https://images.unsplash.com/photo-1508378817913-43c62adcdd59?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+      background: url('/src/assets/Hero-sectio.png');
   }
   .fourth-div{
-    background: url('https://images.unsplash.com/photo-1547423753-6abf56c9b8eb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background: url('/src/assets/Hero-sectio.png');
 }
