@@ -21,14 +21,17 @@ body{
     margin-left: 20%;
    }
   .first-div{
-      background: url('/src/assets/Hero-sectio.png');
+      background: #FD6925;
   }
   .second-div{
-      background: url('/src/assets/Hero-sectio.png');
+      background: #FD6925;
   }
   .third-div{
-      background: url('/src/assets/Hero-sectio.png');
+      background: #FD6925;
   }
   .fourth-div{
-    background: url('/src/assets/Hero-sectio.png');
+    background: #FD6925;
 }
+
+
+/* url('/src/assets/Hero-sectio.png'); */
