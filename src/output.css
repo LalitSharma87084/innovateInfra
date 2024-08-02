@@ -1,5 +1,5 @@
 /*
-! tailwindcss v3.4.6 | MIT License | https://tailwindcss.com
+! tailwindcss v3.4.4 | MIT License | https://tailwindcss.com
 */
 
 /*
@@ -675,10 +675,6 @@ video {
   margin-left: 0px;
 }
 
-.ml-16 {
-  margin-left: 4rem;
-}
-
 .ml-8 {
   margin-left: 2rem;
 }
@@ -697,6 +693,10 @@ video {
 
 .ms-5 {
   margin-inline-start: 1.25rem;
+}
+
+.mt-0 {
+  margin-top: 0px;
 }
 
 .mt-16 {
@@ -719,16 +719,12 @@ video {
   margin-top: 1rem;
 }
 
-.mt-6 {
-  margin-top: 1.5rem;
-}
-
 .mt-8 {
   margin-top: 2rem;
 }
 
-.mt-0 {
-  margin-top: 0px;
+.mb-10 {
+  margin-bottom: 2.5rem;
 }
 
 .block {
@@ -761,10 +757,6 @@ video {
 
 .h-screen {
   height: 100vh;
-}
-
-.w-1\/2 {
-  width: 50%;
 }
 
 .w-2\/5 {
@@ -803,8 +795,8 @@ video {
   width: 100vw;
 }
 
-.w-1 {
-  width: 0.25rem;
+.min-w-\[300px\] {
+  min-width: 300px;
 }
 
 .max-w-6xl {
@@ -869,6 +861,10 @@ video {
 
 .justify-evenly {
   justify-content: space-evenly;
+}
+
+.gap-2 {
+  gap: 0.5rem;
 }
 
 .gap-6 {
@@ -992,6 +988,11 @@ video {
   padding: 2rem;
 }
 
+.px-0 {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
 .px-2 {
   padding-left: 0.5rem;
   padding-right: 0.5rem;
@@ -1025,11 +1026,6 @@ video {
 .py-6 {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
-}
-
-.px-0 {
-  padding-left: 0px;
-  padding-right: 0px;
 }
 
 .pl-4 {
@@ -1263,16 +1259,8 @@ video {
     width: 100%;
   }
 
-  .sm\:w-\[85\%\] {
-    width: 85%;
-  }
-
   .sm\:grid-cols-3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-
-  .sm\:flex-col {
-    flex-direction: column;
   }
 
   .sm\:items-center {
@@ -1301,16 +1289,16 @@ video {
     margin-bottom: 0px;
   }
 
+  .md\:ml-16 {
+    margin-left: 4rem;
+  }
+
   .md\:mt-4 {
     margin-top: 1rem;
   }
 
   .md\:mt-6 {
     margin-top: 1.5rem;
-  }
-
-  .md\:ml-16 {
-    margin-left: 4rem;
   }
 
   .md\:block {
@@ -1325,6 +1313,10 @@ video {
     display: none;
   }
 
+  .md\:w-1\/2 {
+    width: 50%;
+  }
+
   .md\:w-\[90\%\] {
     width: 90%;
   }
@@ -1333,8 +1325,8 @@ video {
     width: 100%;
   }
 
-  .md\:w-1\/2 {
-    width: 50%;
+  .md\:flex-row {
+    flex-direction: row;
   }
 
   .md\:justify-between {
@@ -1354,11 +1346,6 @@ video {
   .md\:text-4xl {
     font-size: 2.25rem;
     line-height: 2.5rem;
-  }
-
-  .md\:text-primary {
-    --tw-text-opacity: 1;
-    color: rgb(253 105 37 / var(--tw-text-opacity));
   }
 }
 
