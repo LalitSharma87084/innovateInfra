@@ -13,10 +13,7 @@
 
 }
 .news-update-section{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
     margin: 1rem 12rem;
-    gap: 1rem;
     font-family: sans-serif;
     
 }
