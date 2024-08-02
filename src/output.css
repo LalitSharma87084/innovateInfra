@@ -1246,20 +1246,12 @@ video {
     display: flex;
   }
 
-  .sm\:w-\[100\%\] {
-    width: 100%;
-  }
-
   .sm\:w-full {
     width: 100%;
   }
 
   .sm\:grid-cols-3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-
-  .sm\:flex-col {
-    flex-direction: column;
   }
 
   .sm\:items-center {
@@ -1280,11 +1272,6 @@ video {
 
   .sm\:text-center {
     text-align: center;
-  }
-
-  .sm\:text-2xl {
-    font-size: 1.5rem;
-    line-height: 2rem;
   }
 }
 
@@ -1309,10 +1296,6 @@ video {
     display: none;
   }
 
-  .md\:w-\[100\%\] {
-    width: 100%;
-  }
-
   .md\:w-\[90\%\] {
     width: 90%;
   }
@@ -1324,16 +1307,17 @@ video {
   .md\:justify-between {
     justify-content: space-between;
   }
+
+  .md\:text-2xl {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
 }
 
 @media (min-width: 1024px) {
   .lg\:my-8 {
     margin-top: 2rem;
     margin-bottom: 2rem;
-  }
-
-  .lg\:flex {
-    display: flex;
   }
 
   .lg\:py-8 {
