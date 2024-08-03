@@ -28,7 +28,7 @@ gsap.from('#para', {
     end: 'bottom 20%',
     scroller:"body",
     scrub: 1,
-    markers:true,
+    markers:false,
     toggleActions: 'restart none none reverse',
   },
   y: 70,
@@ -100,7 +100,7 @@ gsap.from('#ecotext', {
       end: 'bottom 65%',
       scroller:"body",
       scrub: 1,
-      markers:true,
+      markers:false,
       
       toggleActions: 'restart none none reverse',
     },
@@ -120,7 +120,7 @@ gsap.from('#ecotext', {
       end: 'bottom 65%',
       scroller:"body",
       scrub: 1,
-      markers:true,
+      markers:false,
       
       toggleActions: 'restart none none reverse',
     },
