@@ -1,15 +1,15 @@
-// let menuOpened = false;
-// const mobilemenu = document.getElementById("navbar-hamburger");
-// const mobileMenuButton = document.getElementById("mobile-menu");
-// mobileMenuButton.addEventListener("click",()=>{
-//     if (menuOpened) {
-//         mobilemenu.classList.add("hidden")
-//         menuOpened = false;
-//     }else{
-//         mobilemenu.classList.remove("hidden")
-//         menuOpened = true;
-//     }
-// })
+let menuOpened = false;
+const mobilemenu = document.getElementById("navbar-hamburger");
+const mobileMenuButton = document.getElementById("mobile-menu");
+mobileMenuButton.addEventListener("click",()=>{
+    if (menuOpened) {
+        mobilemenu.classList.add("hidden")
+        menuOpened = false;
+    }else{
+        mobilemenu.classList.remove("hidden")
+        menuOpened = true;
+    }
+})
 
 
         var swiper = new Swiper('.swiper-container', {
@@ -35,4 +35,3 @@
         });
      
 
-// code for gsap
