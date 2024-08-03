@@ -30,3 +30,10 @@ Key Features:
     Focus on Sustainability and Innovation
     
 Join us in our mission to build resilient infrastructure, promote sustainable industrialization, and encourage innovation.
+
+
+
+
+If you are seeing this file affter visiting this url: https://usernavneet.github.io/innovateInfra/
+
+    just add "src" at the end, like this url: https://usernavneet.github.io/innovateInfra/src
